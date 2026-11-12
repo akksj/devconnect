@@ -4,6 +4,22 @@ A premium, modern, full-featured developer networking platform built with React 
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Landing Page
+![Landing Page](screenshots/landing.jpg)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.jpg)
+
+### 👤 Developer Profile
+![Developer Profile](screenshots/profile.jpg)
+
+### 💼 Projects Gallery
+![Projects Gallery](screenshots/projects.jpg)
+
+---
+
 ## 🚀 Features
 
 - **Professional Developer Profiles** – Showcase skills, projects, experience, education, and GitHub activity.
